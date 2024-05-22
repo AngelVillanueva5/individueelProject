@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cube.dir/src/main.cpp.o -o cube  -lglfw -lGL -lglut -lGLEW -lGLU 

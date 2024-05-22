@@ -1,0 +1,3 @@
+/home/angel/school/individueelProject/cube/build/CMakeFiles/cube.dir
+/home/angel/school/individueelProject/cube/build/CMakeFiles/edit_cache.dir
+/home/angel/school/individueelProject/cube/build/CMakeFiles/rebuild_cache.dir
